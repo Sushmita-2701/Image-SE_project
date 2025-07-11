@@ -85,6 +85,8 @@ nav .items .item {
     margin: 3px;
     border-radius: 7px;
     border: solid 1px  rgb(206, 195, 195);
+    color: white;
+    background-color: rgb(52, 108, 177);
    cursor: pointer;
    transition: all 0.3s ease ;
 }
